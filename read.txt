@@ -1,0 +1,27 @@
+This dataset consists of 4 CSV files namely customer, store, product, and transaction. It is dummy data for the FMCG case study within 1 year taken through a membership program. Description:
+
+Customer
+CustomerID: Customer Unique Number
+Age: Customer's Age
+Gender : 0 Female, 1 Male
+Marital Status: Married, Single (Not married / Previously married)
+Income: Income per month in million rupiah
+
+Store
+StoreID: Unique Store Code
+StoreName : Store Name
+GroupStore: Group name
+Type: Modern Trade, General Trade
+Latitude: Latitude Code
+Longitude: Longitude Code
+
+Product
+ProductID: Product Unique Code
+Product Name: Product Name
+Price: Price in rupiah
+
+Transaction
+TransactionID: Unique Transaction Code
+Date: Date of transaction
+Qty: Number of items purchased
+Total Amount: Price x Qty
