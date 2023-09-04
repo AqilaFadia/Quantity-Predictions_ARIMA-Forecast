@@ -4,9 +4,9 @@ This project is part of the internship program at Kalbe Nutritionals. The main o
 # Deployment
 
 # Slide and Presentation
- Link Presentation: [here](https://docs.google.com/presentation/d/1HerPGQtEh2bFfpBY8Xx5cXi-lZeWyX9Kk2MPU7YOG4c/edit?usp=sharing)
- Link Video Presentation: here
- Link Article: here
+ * Link Presentation: [here](https://docs.google.com/presentation/d/1HerPGQtEh2bFfpBY8Xx5cXi-lZeWyX9Kk2MPU7YOG4c/edit?usp=sharing)
+ * Link Video Presentation: here
+ * Link Article: here
  
 # Data Understanding
 This dataset consists of 4 CSV files namely customer, store, product, and transaction. It is dummy data for the FMCG case study within 1 year taken through the membership program.
