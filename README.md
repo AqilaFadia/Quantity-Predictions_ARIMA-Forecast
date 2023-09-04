@@ -1,2 +1,12 @@
-# Quantity-Predictions_ARIMA-Forecast
-How to predict Daily Total quantity Product selling at Kalbe Nutritionals
+# Overview
+How to predict the Daily Total Quantity of Products sold at Kalbe Nutritionals
+
+# Deployment
+
+# Slide and Presentation
+
+# Data Understanding
+
+# Business Understanding
+
+# Reference
