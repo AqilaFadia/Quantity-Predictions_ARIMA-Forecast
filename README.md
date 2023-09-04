@@ -4,7 +4,7 @@ This project is part of the internship program at Kalbe Nutritionals. The main o
 # Deployment
 
 # Slide and Presentation
- Link Presentation: here
+ Link Presentation: [here](https://docs.google.com/presentation/d/1HerPGQtEh2bFfpBY8Xx5cXi-lZeWyX9Kk2MPU7YOG4c/edit?usp=sharing)
  Link Video Presentation: here
  Link Article: here
  
