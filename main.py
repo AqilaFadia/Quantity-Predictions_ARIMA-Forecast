@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load your daily_data time series here
-daily_data = pd.read_csv('D:/RAKAMIN/Intership VIX Data Scientist - Kalbe Nutrilions/Transaction.csv', sep=';')  
+daily_data = pd.read_csv('./dataset/Transaction.csv', sep=';')  
 
 # Mengubah kolom 'Date' menjadi tipe data datetime
 daily_data['Date'] = pd.to_datetime(daily_data['Date'], format='%d/%m/%Y')
