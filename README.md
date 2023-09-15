@@ -6,7 +6,7 @@ Link Deployment: [here](https://quantity-predictionsarima-forecast-b9uz9eodsbquw
 # Slide and Presentation
  * Link Presentation: [here](https://docs.google.com/presentation/d/1HerPGQtEh2bFfpBY8Xx5cXi-lZeWyX9Kk2MPU7YOG4c/edit?usp=sharing)
  * Link Video Presentation: here
- * Link Article: here
+ * Link Article: [here](https://medium.com/@aqilafadiamariana/daily-total-quantity-predictions-with-arima-forecast-555da4b90929)
  
 # Data Understanding
 This dataset consists of 4 CSV files namely customer, store, product, and transaction. It is dummy data for the FMCG case study within 1 year taken through the membership program.
